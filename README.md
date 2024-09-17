@@ -1,6 +1,6 @@
 ## JUSTATZ-MD
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝘑𝘜𝘚𝘛𝘈𝘛𝘡+md+Created+by+𝘓𝘜𝘊𝘒𝘔𝘈𝘕.&heart;++;Self-taught+Back-Created+By,; JUSTATZ+JT+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+JUSTATZ+md+Created+by+JUSTA.&heart;++;Self-taught+Back-Created+By,; JUSTATZ+JT+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://i.imgur.com/CQBKjbR.jpeg">
  <img alt="JUSTATZ-MD" height="300" src="https://i.imgur.com/CQBKjbR.jpeg">
 
@@ -118,18 +118,18 @@ star✨ my repo if you like this bot🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.link/4d9cpj" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/𝘫𝘶𝘴𝘵𝘢𝘵𝘻 tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/JUSTATZ contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
 <a href="https://youtube.com/@justatz?si=goWny5eXB2g5qKfw" target="_blank">
-    <img alt="𝘞𝘩𝘢𝘵'𝘴𝘢𝘱𝘱 𝘨𝘳𝘰𝘶𝘱" src="https://img.shields.io/badge/ 𝘑𝘜𝘚𝘛𝘈𝘛𝘡_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="𝘞𝘩𝘢𝘵'𝘴𝘢𝘱𝘱 𝘨𝘳𝘰𝘶𝘱" src="https://img.shields.io/badge/ JUSTATZ_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
 
-The WhatsApp Bot 𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot JUSTATZ-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 🌟 THANK YOU FOR CHOOSING JUSTATZ-MD 🌟
