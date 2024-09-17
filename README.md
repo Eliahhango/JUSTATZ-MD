@@ -1,13 +1,13 @@
-## 𝘑𝘜𝘚𝘛𝘈𝘛𝘡 MD
+## JUSTATZ-MD
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝘑𝘜𝘚𝘛𝘈𝘛𝘡+md+Created+by+𝘓𝘜𝘊𝘒𝘔𝘈𝘕.&heart;++;Self-taught+Back-Created+By,;𝘑𝘜𝘚𝘛𝘈𝘛𝘡+𝘛𝘡+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝘑𝘜𝘚𝘛𝘈𝘛𝘡+md+Created+by+𝘓𝘜𝘊𝘒𝘔𝘈𝘕.&heart;++;Self-taught+Back-Created+By,; JUSTATZ+JT+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://i.imgur.com/CQBKjbR.jpeg">
- <img alt="𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD" height="300" src="https://i.imgur.com/CQBKjbR.jpeg">
+ <img alt="JUSTATZ-MD" height="300" src="https://i.imgur.com/CQBKjbR.jpeg">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 </h1> 
-<p align="center">l introduce <b>𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>JUSTATZ-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
@@ -31,12 +31,12 @@
 
 ---
 
-<p align="cente𝘳  <a href="https://github.com/JustaTz01/𝘑𝘶𝘴𝘵𝘢𝘛𝘻-md"><b>𝘑𝘶𝘴𝘵𝘢𝘛𝘻-md</b></a> Support Deploy On...
+<p align="cente𝘳  <a href="https://github.com/JustaTz01/JUSTATZ-MD">JUSTATZ-MD</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/boniphace478/JustaTz01-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/JustaTz01/𝘑𝘶𝘴𝘵𝘢𝘛𝘻-Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/JustaTz01/JUSTATZ-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template="https://github.com/JustaTz01/JUSTATZ-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -54,15 +54,15 @@
 
 
 
-## HOW TO DEPLOY 𝘑𝘜𝘚𝘛𝘈𝘛𝘡 MD
+## HOW TO DEPLOY JUSTATZ-MD
 
 
 ## 1.FIRST STEP 
-## Fork 𝘑𝘶𝘴𝘵𝘢𝘛𝘻 Md Repo
+## Fork JUSTATZ-MD Repo
 👇 👇  👇 👇
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
  
-- <a href="https://github.com/JustaTz01/𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/JustaTz01/JUSTATZ-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -132,12 +132,12 @@ CONTACT DEVELOPER ON WHATSAPP
 The WhatsApp Bot 𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 THANK YOU FOR CHOOSING 𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD 🌟
+🌟 THANK YOU FOR CHOOSING JUSTATZ-MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
 
-- [**𝘑𝘜𝘚𝘛𝘈𝘛𝘡 TECH**](https://github.com/JustaTz01)
+- [**JUSTATZ TECH**](https://github.com/JustaTz01)
 - [**EliTechWiz**](https://github.com/Eliahhango)
 - [**Developers YT**](https://youtube.com/@justatz?si=goWny5eXB2g5qKfw)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
