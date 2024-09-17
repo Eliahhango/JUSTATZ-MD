@@ -1,7 +1,7 @@
 ## 𝘑𝘜𝘚𝘛𝘈𝘛𝘡 MD
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝘑𝘜𝘚𝘛𝘈𝘛𝘡+md+Created+by+𝘓𝘜𝘊𝘒𝘔𝘈𝘕.&heart;++;Self-taught+Back-Created+By,;𝘑𝘜𝘚𝘛𝘈𝘛𝘡+𝘛𝘡+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
+ <a href="https://i.imgur.com/CQBKjbR.jpeg">
  <img alt="𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD" height="300" src="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -138,6 +138,7 @@ The WhatsApp Bot 𝘑𝘜𝘚𝘛𝘈𝘛𝘡-MD is released under the [MIT Lice
 ## DEVELOPERS :
 
 - [**𝘑𝘜𝘚𝘛𝘈𝘛𝘡 TECH**](https://github.com/JustaTz01)
+- [**EliTechWiz**](https://github.com/Eliahhango)
 - [**Developers YT**](https://youtube.com/@justatz?si=goWny5eXB2g5qKfw)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
